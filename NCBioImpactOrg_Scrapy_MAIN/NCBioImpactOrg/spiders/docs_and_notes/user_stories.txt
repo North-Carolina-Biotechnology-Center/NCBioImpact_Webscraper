@@ -1,0 +1,20 @@
+As an Admin ...
+	I would like to scrape websites responsibly with a spider, so that
+	the program won't time out or neglect access
+
+	CONDITONS OF SATISFACTION: USe scheduler in settings.py
+
+	I would like to determine the word counts of websites of a particular
+	type so that I can use these as part of a keyword search for LSI
+
+
+As an LSI Staff Member...
+	I would like to do a keyword search of websites of a specified
+	contact type, so that I can save time on research
+
+	CONDITIONS OF SATISFACTION: WordCtItem
+
+	I would like to see the words common across all websites, so that 
+	I can sense trends in biotech companies
+
+	CONDITIONS OF SATISFACTION: WordCtItem manipulations

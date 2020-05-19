@@ -1,0 +1,4 @@
+AllWordCtsItem
+	'url' : url as a string
+	'word_counts' : a dictionary of words and their counts
+	'scrape_date' : date.today()  date in form YYYY-MO-DA

@@ -1,0 +1,2 @@
+class DemoPipeline(object):
+    pass
